@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/FB55/domutils.git"
+    "url": "git://github.com/lightskill/domutils.git"
   },
   "keywords": [
     "dom",
