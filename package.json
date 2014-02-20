@@ -1,6 +1,6 @@
 {
   "name": "domutils",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "utilities for working with htmlparser2's dom",
   "main": "index.js",
   "directories": {
@@ -9,14 +9,6 @@
   "scripts": {
     "test": "mocha test/tests/**.js && jshint index.js test/**/*.js lib/*.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/lightskill/domutils.git"
-  },
-  "keywords": [
-    "dom",
-    "htmlparser2"
-  ],
   "dependencies": {
     "domelementtype": "1"
   },
